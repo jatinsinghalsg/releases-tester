@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/jatinsinghalsg/releases-tester/compare/releases-tester-v1.0.0...releases-tester-v1.1.0) (2024-11-29)
+
+
+### Features
+
+* **SGE-000:** added package.json ([cebc980](https://github.com/jatinsinghalsg/releases-tester/commit/cebc980b9de45cc8d044e683b79dc7662e00abae))
+
 ## 1.0.0 (2024-11-29)
 
 
