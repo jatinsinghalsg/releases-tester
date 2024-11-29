@@ -1,6 +1,5 @@
 {
-    "release-type": "node",
     "prerelease-type": "alpha",
     "prerelease": true,
     "skip-github-release": true
-  }
+}
