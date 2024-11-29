@@ -1,6 +1,6 @@
 {
     "prerelease": true,
-    "prerelease-type": "beta",
+    "prerelease-type": "alpha",
     "default-branch": "dev",
     "versioning": "prerelease",
     "packages": {
