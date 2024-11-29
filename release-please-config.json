@@ -3,5 +3,8 @@
         ".": {
             "release-type": "simple"
         }
-    }
+    },
+    "skip-github-release": true,
+    "prerelease": true,
+    "prerelease-type": "alpha"
 }
