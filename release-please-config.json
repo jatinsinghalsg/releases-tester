@@ -1,5 +1,3 @@
 {
-    "release-type": "simple",
-    "prerelease-type": "alpha",
-    "prerelease": true
+    "release-type": "simple"
 }
