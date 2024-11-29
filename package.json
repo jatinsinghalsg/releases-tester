@@ -1,6 +1,6 @@
 {
   "name": "releases-tester",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-alpha.3",
   "description": "Test my releases setup",
   "main": "mine.js",
   "scripts": {
