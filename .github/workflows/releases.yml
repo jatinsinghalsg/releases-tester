@@ -21,5 +21,3 @@ jobs:
           config-file: release-please-config.json
           # optional. customize path to .release-please-manifest.json
           manifest-file: .release-please-manifest.json
-          default-branch: dev
-          versioning-strategy: prerelease
