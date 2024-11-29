@@ -1,0 +1,11 @@
+{
+  "name": "releases-tester",
+  "version": "1.0.0-alpha.0",
+  "description": "Test my releases setup",
+  "main": "mine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
