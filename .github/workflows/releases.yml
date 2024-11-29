@@ -17,7 +17,4 @@ jobs:
 
       - uses: googleapis/release-please-action@v4
         with:
-          # optional. customize path to release-please-config.json
-          config-file: release-please-config.json
-          # optional. customize path to .release-please-manifest.json
-          manifest-file: .release-please-manifest.json
+          release-type: simple
