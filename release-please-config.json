@@ -1,10 +1,9 @@
 {
+    "prerelease": true,
+    "prerelease-type": "beta",
     "packages": {
         ".": {
-            "release-type": "simple",
-            "skip-github-release": true,
-            "prerelease": true,
-            "prerelease-type": "alpha"
+            "release-type": "simple"
         }
     }
 }
