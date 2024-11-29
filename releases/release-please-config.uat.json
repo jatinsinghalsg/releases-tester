@@ -6,5 +6,6 @@
     "packages": {
         ".": {}
     },
-    "initial-version": "v1.0.0-alpha.0"
+    "initial-version": "v1.0.0-alpha.0",
+    "changelog-path": "CHANGELOG.beta.md"
 }
