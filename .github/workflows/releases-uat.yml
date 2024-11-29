@@ -1,0 +1,24 @@
+# Add a Github action, that raises a release PR on merge to qa, uat, main branches, but they will all be different checks.
+
+name: Release PR Workflow
+
+on:
+  push:
+    branches:
+      - uat
+
+jobs:
+  release-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - uses: googleapis/release-please-action@v4
+        with:
+          # optional. customize path to release-please-config.json
+          config-file: releases/release-please-config.uat.json
+          # optional. customize path to .release-please-manifest.json
+          manifest-file: releases/.release-please-manifest.uat.json
+          target-branch: uat

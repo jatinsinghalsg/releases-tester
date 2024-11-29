@@ -1,0 +1,23 @@
+# Add a simple worflow to run CI check [maybe just the commit message convention] when PR is raised to any of these dev, qa, uat, main
+name: PR CI Check
+
+on:
+  pull_request:
+    branches:
+      - dev
+      - qa
+      - uat
+      - main
+
+jobs:
+  ci-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Run CI check
+        run: |
+          echo "Running CI check"
+          # Add your CI check commands here

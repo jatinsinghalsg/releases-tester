@@ -1,0 +1,10 @@
+{
+    "prerelease": true,
+    "prerelease-type": "alpha",
+    "default-branch": "dev",
+    "versioning": "prerelease",
+    "packages": {
+        ".": {}
+    },
+    "initial-version": "v1.0.0-alpha.0"
+}
