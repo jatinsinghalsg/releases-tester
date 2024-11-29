@@ -2,7 +2,7 @@
     "prerelease": true,
     "prerelease-type": "beta",
     "default-branch": "dev",
-    "versioning-strategy": "prerelease",
+    "versioning": "prerelease",
     "packages": {
         ".": {}
     }
