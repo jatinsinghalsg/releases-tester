@@ -1,11 +1,11 @@
 {
     "prerelease": true,
-    "prerelease-type": "alpha",
-    "default-branch": "dev",
+    "prerelease-type": "beta",
+    "default-branch": "uat",
     "versioning": "prerelease",
     "packages": {
         ".": {}
     },
-    "initial-version": "v1.0.0-alpha.0",
-    "changelog-path": "CHANGELOG.beta.md"
+    "changelog-path": "CHANGELOG.beta.md",
+    "initial-version": "v1.0.0-beta.0"
 }
