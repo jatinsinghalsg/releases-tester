@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.0-beta](https://github.com/jatinsinghalsg/releases-tester/compare/releases-tester-v1.1.0...releases-tester-v1.2.0-beta) (2024-11-29)
+
+
+### Features
+
+* **SGE-000:** added package.json ([6f0b57c](https://github.com/jatinsinghalsg/releases-tester/commit/6f0b57c2ecb716b6b40b104a0793a52c6503f45d))
+* **SGE-000:** added package.json ([95cf339](https://github.com/jatinsinghalsg/releases-tester/commit/95cf3391f2d5c30e68c97bed664be927f1b62e70))
+* **SGE-000:** added package.json ([afeb25a](https://github.com/jatinsinghalsg/releases-tester/commit/afeb25ac8377122f9ffaeaea3afa3b5bad859bd1))
+
 ## [1.1.0](https://github.com/jatinsinghalsg/releases-tester/compare/releases-tester-v1.0.0...releases-tester-v1.1.0) (2024-11-29)
 
 
